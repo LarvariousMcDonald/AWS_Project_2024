@@ -1,3 +1,7 @@
-This was a group project, that me and others created in the AWS Infrastructure. 
+This was a group project, that me and other group members created in the AWS Infrastructure. 
 
-## Goal of this Project
+## Goal(s) of this Project:
+
+Leverage public cloud technologies and services to expand their presence in their target markets
+
+* 
